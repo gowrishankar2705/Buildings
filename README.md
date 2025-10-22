@@ -71,7 +71,7 @@ Buildings
 ## 👨‍💻 Author
 
 **Gowrishankar S**  
-B.Tech in AI & Data Science | Forge Fellow at Forge Innovation & Ventures  
+B.Tech in AI & Data Science  
 - GitHub: [@gowrishankar2705](https://github.com/gowrishankar2705)  
 - LinkedIn: [in/gowrishankar-s-59a782253](https://www.linkedin.com/in/gowrishankar-s-59a782253/)  
 
